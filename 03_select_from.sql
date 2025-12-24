@@ -1,0 +1,2 @@
+SELECT IdProduto, DescNomeProduto, DescCategoriaProduto
+FROM produtos
