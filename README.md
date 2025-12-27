@@ -4,4 +4,4 @@ Esse é o meu repositório de estudos do curso [Aprenda SQL](https://www.youtube
 
 Nele vou guardar todas as consultas que foram ensinadas ao decorrer do dia, meu intuito é ter um material que eu possa consultar junto com as minhas anotações.
 
-O banco de dados usado pode se baixado [aqui](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system?resource=download).
+O banco de dados usado pode ser baixado [aqui](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system?resource=download).
