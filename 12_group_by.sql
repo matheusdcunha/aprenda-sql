@@ -11,8 +11,8 @@ SELECT
 FROM transacoes
 
 GROUP BY data_criacao
-
-ORDER BY clientes_criados DESC;
+HAVING clientes_criados > 10000
+ORDER BY clientes_criados DESC; 
 
 SELECT IdCliente AS id_cliente,
        sum(qtdePontos) AS cliente_total_pontos,
